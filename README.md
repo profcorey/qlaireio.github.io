@@ -1,2 +1,2 @@
-# qlaire.github.io
-Qlaire Website
+# qlaireio.github.io
+Qlaire.io Website
