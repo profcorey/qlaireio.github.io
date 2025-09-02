@@ -6,7 +6,7 @@ Qlaire stands for Quantum computing Linux Artifical Intelligence Research and Ex
 
 It is an open source chatbot with a publicly available git repository: to be added here. 
 
-For questions or comments about Qlaire, please contact Dr. Corey Leong at https://github.com/profcorey.
+For questions or comments about Qlaire, please contact [Dr. Corey Leong](https://github.com/profcorey).
 ---
 Recent Release
 Qlaire-04: tba
