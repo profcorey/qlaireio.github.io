@@ -7,15 +7,18 @@ Qlaire stands for Quantum computing Linux Artifical Intelligence Research and Ex
 For questions or comments about Qlaire, please contact Dr. Corey Leong at https://github.com/profcorey.
 ---
 Recent Release
-Qlaire-04
+Qlaire-04: tba
+
+Upcoming Release
+Qlaire-05: tba
 
 
-Release Notes
+Past Releases
 
-Qlaire-01
+Qlaire-01: tba
 
-Qlaire-02
+Qlaire-02: tba
 
-Qlaire-03
+Qlaire-03: tba
 
-Qlaire-04
+Qlaire-04: tba
