@@ -1,8 +1,10 @@
 # Welcome to Qlaire!
 
-This webiste will track the development of the chatbot Qlaire, a teacher assistant AI bot.
+This webiste tracks the development for the chatbot Qlaire, a teacher assistant AI bot.
 
 Qlaire stands for Quantum computing Linux Artifical Intelligence Research and Experimentation.
+
+It is an open source chatbot with a publicly available git repository: to be added here. 
 
 For questions or comments about Qlaire, please contact Dr. Corey Leong at https://github.com/profcorey.
 ---
