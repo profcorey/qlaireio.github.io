@@ -4,6 +4,8 @@ This webiste will track the development of the chatbot Qlaire, a teacher assista
 
 Qlaire stands for Quantum computing Linux Artifical Intelligence Research and Experimentation.
 
+For questions or comments about Qlaire, please contact Dr. Corey Leong at https://github.com/profcorey.
+---
 Recent Release
 Qlaire-04
 
