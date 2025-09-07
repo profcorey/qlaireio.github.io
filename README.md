@@ -13,7 +13,7 @@ For questions or comments about Qlaire, please contact [Dr. Corey Leong](https:/
 
 
 ### Current Release
-Qlaire-04
+Qlaire-04: Greeting and Small Talk provided to users.
 
 ### Upcoming Release
 Qlaire-05: Greeting, Small Talk, and Syllabus Query.
