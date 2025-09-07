@@ -14,10 +14,10 @@ For questions or comments about Qlaire, please contact [Dr. Corey Leong](https:/
 ---
 
 ### Current Release
-Qlaire-04: Greeting and Small Talk provided to users.
+Qlaire-05: Greeting, Small Talk, and Syllabus Query.
 
 ### Upcoming Release
-Qlaire-05: Greeting, Small Talk, and Syllabus Query.
+Qlaire-06: Greeting, Small Talk, Syllabus Query, and FAQ Query.
 
 ### Past Releases
 
