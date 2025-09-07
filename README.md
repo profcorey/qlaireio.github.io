@@ -8,9 +8,7 @@ It is an open source chatbot with a publicly available git repository: [https://
 
 For questions or comments about Qlaire, please contact [Dr. Corey Leong](https://github.com/profcorey).
 
-
 ---
-
 
 ### Current Release
 Qlaire-04: Greeting and Small Talk provided to users.
