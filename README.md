@@ -13,18 +13,18 @@ For questions or comments about Qlaire, please contact [Dr. Corey Leong](https:/
 
 
 Recent Release
-Qlaire-04: tba
+Qlaire-04
 
 Upcoming Release
-Qlaire-05: tba
+Qlaire-05: Greeting, Small Talk, and Syllabus Query.
 
 
 Past Releases
 
-Qlaire-01: tba
-
-Qlaire-02: tba
+Qlaire-04: Greeting and Small Talk provided to users.
 
 Qlaire-03: tba
 
-Qlaire-04: tba
+Qlaire-02: tba
+
+Qlaire-01: tba
