@@ -3,10 +3,8 @@
 This website tracks the open source project, Qlaire, a teaching assistant artificial intelligent bot.
 
 <p align="left">
-<figure>
-    <img src="/robot.png" width="20" height="20" alt="Qlaire">
-</figure>
-<figcaption>Qlaire stands for Quantum computing Linux Artifical Intelligence Research and Experimentation.
+<img src="/robot.png" width="20" height="20" alt="Qlaire"/>
+Qlaire stands for Quantum computing Linux Artifical Intelligence Research and Experimentation.
 </figcaption>
 </p>
 
