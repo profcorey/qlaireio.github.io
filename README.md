@@ -23,8 +23,8 @@ Past Releases
 
 Qlaire-04: Greeting and Small Talk provided to users.
 
-Qlaire-03: tba
+Qlaire-03: Small Talk and Default Start Flow with Start Page, Request, End Session.
 
-Qlaire-02: tba
+Qlaire-02: Small Talk provided to users.
 
-Qlaire-01: tba
+Qlaire-01: Default settings.
