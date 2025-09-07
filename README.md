@@ -4,7 +4,7 @@ This website tracks the open source project, Qlaire, a teaching assistant artifi
 
 Qlaire stands for Quantum computing Linux Artifical Intelligence Research and Experimentation.
 <figure>
-    <img src="/robot.png" width="6" height="6"
+    <img src="/robot.png" width="20" height="20"
          alt="Qlaire">
     <figcaption>Qlaire</figcaption>
 </figure>
