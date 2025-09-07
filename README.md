@@ -6,7 +6,8 @@ This website tracks the open source project, Qlaire, a teaching assistant artifi
 <figure>
     <img src="/robot.png" width="20" height="20" alt="Qlaire">
 </figure>
-Qlaire stands for Quantum computing Linux Artifical Intelligence Research and Experimentation.    
+<figcaption>Qlaire stands for Quantum computing Linux Artifical Intelligence Research and Experimentation.
+</figcaption>
 </p>
 
 It is an open source chatbot with a publicly available git repository: [https://github.com/profcorey/qlaireio.github.io](https://github.com/profcorey/qlaireio.github.io). 
